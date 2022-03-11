@@ -1,7 +1,7 @@
-  <div class = "header">
-    <h1> header </h1>
-    <p> my supercool header </p>
-  </div>
+<div class = "header">
+  <h1> header </h1>
+  <p> my supercool header </p>
+</div>
   
 .header {
   padding: 60px;
